@@ -9,14 +9,14 @@
     tools:context=".AccelerometerActivity">
 
     <TextView
-        android:id="@+id/Tv_x"
+        android:id="@+id/tv_x"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="X"
         android:textSize="40sp" />
 
     <TextView
-        android:id="@+id/Tv_y"
+        android:id="@+id/tv_y"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="40sp"
@@ -24,7 +24,7 @@
         android:text="Y" />
 
     <TextView
-        android:id="@+id/Tv_z"
+        android:id="@+id/tv_z"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="40sp"
